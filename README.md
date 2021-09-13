@@ -10,7 +10,7 @@ This online repository contains all python and SQL scripts used in the productio
 
 * *data_processing* is a folder containing python code for processing the CPRD data extracts for each medication.
 
-* *lookups* is a folder containing pickeled lookup files that the .ipynb files rely on.
+* *lookups* is a folder containing pickled lookup files that the .ipynb files rely on.
 
 * *helper_functions.ipynb* contains a range of helper functions for mapping codes, processing data, constructing datasets and other frequently used pieces of code.
 
