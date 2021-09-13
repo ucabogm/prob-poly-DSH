@@ -1,5 +1,6 @@
 # prob-poly-project
-* python and SQL scripts for MSc project*
+
+This online repository contains all python and SQL scripts used in the production of thesis "A Systematic Approach to Predicting Problematic Polypharmacy". 
 
 ### Set-up (SQL and pre-processing)
 
