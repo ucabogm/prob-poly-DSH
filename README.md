@@ -1,6 +1,6 @@
 # prob-poly-project
 
-This online repository contains all python and SQL scripts used in the production of thesis "A Systematic Approach to Predicting Problematic Polypharmacy". 
+This online repository contains all python and SQL scripts used in the production of thesis "A Systematic Approach to Predicting Problematic Polypharmacy" as part requirement for the MSc Data Science and Machine Learning at UCL 2020/21. 
 
 ### Set-up (SQL and pre-processing)
 
