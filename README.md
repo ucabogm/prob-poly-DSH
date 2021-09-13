@@ -4,7 +4,7 @@ This online repository contains all python and SQL scripts used in the productio
 
 ### Set-up (SQL and pre-processing)
 
-* Note the numeric coding in each filename represents the CPRD BNF Coding for that medication.*
+*Note the numeric coding in each filename represents the CPRD BNF Coding for that medication.*
 
 * *SQL_queries* is a folder containing the SQL scripts used for extracting data from the Patient, Therapy and Clinical CPRD data files for each medication.
 
